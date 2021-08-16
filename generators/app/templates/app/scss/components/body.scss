@@ -1,0 +1,6 @@
+@use "../util/" as *;
+
+body {
+  min-height: 100vh;
+  @include flexCenter(column);
+}
