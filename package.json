@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Kungie/generator-erens-fabulous-starter-files/issues"
   },
-  "homepage": "https://github.com/Kungie/generator-erens-fabulous-starter-files#readme"
+  "homepage": "https://github.com/Kungie/generator-erens-fabulous-starter-files#readme",
+  "dependencies": {
+    "yeoman-generator": "^5.4.1"
+  }
 }
